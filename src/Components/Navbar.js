@@ -27,7 +27,7 @@ class NewNavbar extends React.Component {
 		return (
 			<div>
 				<Navbar color="light" light expand="md">
-					<NavbarBrand href="/">Pincstyle-Test-2</NavbarBrand>
+					<NavbarBrand href="/">Pincstyle-Test-3</NavbarBrand>
 					<NavbarToggler onClick={this.toggle} />
 					<Collapse isOpen={this.state.isOpen} navbar>
 						<Nav className="ml-auto" navbar>
